@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cypress": "^15.12.0",
+    "faker": "^5.5.3"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^4.0.2"
+  }
+}
